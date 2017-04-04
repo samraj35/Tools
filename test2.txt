@@ -1,0 +1,3 @@
+Added the third file 
+This file is added and once commit, with out password i need to push
+
