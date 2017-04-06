@@ -1,0 +1,3 @@
+This is the third file adding in direct GitHub
+Once added and commit , we need to get it local git
+These are trial and error things
